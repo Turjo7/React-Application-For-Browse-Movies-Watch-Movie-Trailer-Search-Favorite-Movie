@@ -10,7 +10,7 @@
     "@valdio/react-native-scrollable-tabview": "^0.8.11",
     "mobx": "^4.8.0",
     "mobx-react": "^5.4.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "numeral": "^2.0.6",
     "react": "16.6.3",
     "react-native": "0.58.1",
